@@ -1,0 +1,22 @@
+{
+  "wheel_id": 512,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-106",
+  "project": "garage-door-repairs-brisbane-maintenance-bac904bced032a8d219",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-152",
+  "node_role": "feeder",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane maintenance",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-brisbane-maintenance-bac904bced032a8d219/",
+  "tier": "T2",
+  "writeback_nonce": "7fc2aeec5b10b58b",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-council-and-approvals-70d10c083eb2/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
